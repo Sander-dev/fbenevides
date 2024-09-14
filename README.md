@@ -19,7 +19,7 @@ Primeiro, clone o repositório do projeto:
 
 git clone https://github.com/Sander-dev/fbenevides-front-end.git
 
-cd seu-repositorio
+cd fbenevides-front-end
 
 2. Instale as Dependências, 
 Instale todas as dependências do projeto usando npm:
