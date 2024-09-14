@@ -17,7 +17,7 @@ Configuração do Projeto
 1. Clone o Repositório, 
 Primeiro, clone o repositório do projeto:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Sander-dev/fbenevides-front-end.git
 
 cd seu-repositorio
 
