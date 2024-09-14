@@ -1,9 +1,44 @@
-# Introdução
+Frontend do Projeto
+Este é o frontend do projeto desenvolvido com React, Redux e TypeScript. A aplicação é projetada para gerenciar a autenticação de usuários e exibir informações.
 
-Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
+Tecnologias Utilizadas
 
-## Scripts Disponíveis
+React; Redux; TypeScript
 
-- `npm start`: Inicia o servidor de desenvolvimento.
 
-Para mais detalhes, consulte a [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
+Pré-requisitos: 
+Antes de iniciar o projeto, certifique-se de ter as seguintes ferramentas instaladas:
+
+Node.js (v14 ou superior)
+npm (gerenciador de pacotes do Node.js)
+Configuração do Projeto
+
+
+1. Clone o Repositório, 
+Primeiro, clone o repositório do projeto:
+
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+cd seu-repositorio
+
+2. Instale as Dependências, 
+Instale todas as dependências do projeto usando npm:
+
+npm install
+
+3. Execute o Projeto, 
+Para iniciar o servidor de desenvolvimento e rodar o frontend, use o comando:
+
+npm start
+
+O frontend estará disponível em http://localhost:3000.
+
+4. Scripts Disponíveis
+
+npm start: Inicia o servidor de desenvolvimento e abre a aplicação no navegador.
+
+npm run build: Cria uma versão otimizada da aplicação para produção.
+
+npm test: Executa os testes configurados no projeto.
+
+npm run lint: Executa o linting para garantir a qualidade do código.
